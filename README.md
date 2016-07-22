@@ -1,5 +1,7 @@
 ## glue
 
+Temporary fork - add the `clone` option (boolean) which allows to avoid the call to `Hoek.clone`. More info here: https://github.com/hapijs/glue/issues/71
+
 [![Build Status](https://travis-ci.org/hapijs/glue.svg)](https://travis-ci.org/hapijs/glue)
 
 Lead Maintainer - [Chris Rempel](https://github.com/csrl)
